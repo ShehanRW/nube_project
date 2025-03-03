@@ -1,2 +1,2 @@
-﻿6884
-C:/Users/Shehan/AppData/Local/Temp/Rar$EXa15616.31748/Godot_v4.3-stable_mono_win64/Godot_v4.3-stable_mono_win64.exe
+﻿7555
+D:/Program Files/Godot/Godot_v4.3-stable_mono_win64.exe
