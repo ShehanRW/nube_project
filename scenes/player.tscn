@@ -1,7 +1,7 @@
 [gd_scene load_steps=14 format=3 uid="uid://me723e48su82"]
 
-[ext_resource type="Script" path="res://player.gd" id="1_7jhgl"]
-[ext_resource type="Texture2D" uid="uid://djymc71oidsun" path="res://asset/4alltogether-Sheet.png" id="2_uy451"]
+[ext_resource type="Script" path="res://scripts/player.gd" id="1_jey3f"]
+[ext_resource type="Texture2D" uid="uid://djymc71oidsun" path="res://asset/4alltogether-Sheet.png" id="2_xxfjs"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_tw5e5"]
 size = Vector2(6, 33)
@@ -170,13 +170,14 @@ _data = {
 }
 
 [node name="Player" type="CharacterBody2D"]
-script = ExtResource("1_7jhgl")
+position = Vector2(1, 1)
+script = ExtResource("1_jey3f")
 
 [node name="sprite" type="Sprite2D" parent="."]
 texture_filter = 1
 position = Vector2(1.52588e-05, 0)
 scale = Vector2(0.994141, 1)
-texture = ExtResource("2_uy451")
+texture = ExtResource("2_xxfjs")
 hframes = 32
 frame = 1
 
