@@ -1,2 +1,0 @@
-﻿7555
-D:/Program Files/Godot/Godot_v4.3-stable_mono_win64.exe
