@@ -1,8 +1,8 @@
 2a60927148abd1d33b818b535e306557
-::res://::1740984216
+::res://::1741084289
 icon.svg::CompressedTexture2D::6727253080550831699::1740891776::1740891784::1::::<><>::
-player.gd::GDScript::-1::1740982150::0::1::::<>CharacterBody2D<>::
-player.tscn::PackedScene::852516273072066573::1740982150::0::1::::<><>::res://player.gd<>uid://b8oweu2x868c<>uid://dvri2a5363al5
+player.gd::GDScript::-1::1741084264::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::852516273072066573::1741083851::0::1::::<><>::res://player.gd<>uid://djymc71oidsun
 ::res://addons/::1740984207
 ::res://addons/aseprite_importer/::1740984207
 plugin.cfg::TextFile::-1::1740984207::0::1::::<><>::
@@ -41,13 +41,14 @@ SpritesheetView.tscn::PackedScene::-1::1740984207::0::1::::<><>::res://addons/as
 godot_hover.png::CompressedTexture2D::8709533077585515860::1740984207::1740984208::1::::<><>::
 godot_normal.png::CompressedTexture2D::3960818245933784629::1740984207::1740984208::1::::<><>::
 godot_pressed.png::CompressedTexture2D::998127160469001120::1740984207::1740984208::1::::<><>::
-::res://asset/::1740985682
+::res://asset/::1741020043
 4alltogether-Sheet.png::CompressedTexture2D::7841240606979082069::1740985666::1740985685::1::::<><>::
 4alltogether.json::JSON::-1::1740985248::0::1::::<><>::
 back side 4 .png::CompressedTexture2D::8725414315746478300::1740976013::1740976013::1::::<><>::
 down side attack-Sheet.png::CompressedTexture2D::643109306649057580::1740976013::1740976013::1::::<><>::
 left side 4.png::CompressedTexture2D::7805374524669687254::1740976013::1740976013::1::::<><>::
 left side attack-Sheet.png::CompressedTexture2D::5595389967610462927::1740976013::1740976013::1::::<><>::
+Melee.png::CompressedTexture2D::1509782273158086316::1741019990::1741020043::1::::<><>::
 right side attack-Sheet.png::CompressedTexture2D::4016219131261858345::1740976013::1740976013::1::::<><>::
 right side.png::CompressedTexture2D::8668856189333415012::1740976013::1740976013::1::::<><>::
 up side 4.png::CompressedTexture2D::139202877134958264::1740976013::1740976013::1::::<><>::
